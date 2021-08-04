@@ -1259,10 +1259,10 @@
     bs58check "^2.1.2"
     buffer "^6.0.3"
 
-"@temple-wallet/dapp@4.0.0":
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/@temple-wallet/dapp/-/dapp-4.0.0.tgz#bac3990fc4316d8126b43a080c6813040c20132d"
-  integrity sha512-0Ss5RfoBWgs7Y44FqUrPmPKR6tFDKjagDAj1ykOQ8ARs00Z8mqGYWJ5hIsoo3PH2/WhMJfEjzjzCnMpGEJNvNg==
+"@temple-wallet/dapp@4.0.1":
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/@temple-wallet/dapp/-/dapp-4.0.1.tgz#e506bb5743570d308b46458fcee7dff43f4f8fd1"
+  integrity sha512-0ARUKpY5vGEmvaBFtc1n6lcX1P9wzIjupSe6X1lFZGxp/8vNO3wcI0lsOs2r/7swFTwmQ+P8lZbougd0JOfiWQ==
   dependencies:
     nanoid "^3.1.10"
 
