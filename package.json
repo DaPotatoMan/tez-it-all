@@ -15,7 +15,7 @@
       "vue-router": "4.0.11"
    },
    "devDependencies": {
-      "@vitejs/plugin-vue": "1.6.2",
+      "@vitejs/plugin-vue": "1.7.0",
       "@vue/compiler-sfc": "3.2.12",
       "@vuedx/typescript-plugin-vue": "0.7.4",
       "@vuedx/typescript-vetur": "0.7.4",
