@@ -4219,10 +4219,10 @@ mz@^2.4.0, mz@^2.7.0:
     object-assign "^4.0.1"
     thenify-all "^1.0.0"
 
-naive-ui@2.18.2:
-  version "2.18.2"
-  resolved "https://registry.yarnpkg.com/naive-ui/-/naive-ui-2.18.2.tgz#82933bb51ebd44f433075ee77bce3b79faab6139"
-  integrity sha512-BiVq9ME4+zp2DOhqpnkQLBAE69T6x4OqImZ6FLoNs0HgvP8r8nq4+fumdxHWi7bp+QaLVIXkHh8Bb3IP4Gl1KA==
+naive-ui@2.19.0:
+  version "2.19.0"
+  resolved "https://registry.yarnpkg.com/naive-ui/-/naive-ui-2.19.0.tgz#cfb1f921b567235da3d07627e91c0dcaf4cd0a6d"
+  integrity sha512-YHZ+vwekmt/PVTv7e93aKE43RPfN7UHvdmSzNWU6tEfKxJ0rEfHAtn58wmqkQv5Btfx/8+1Gpu3MOPEC1ci6tA==
   dependencies:
     "@css-render/plugin-bem" "^0.15.6"
     "@css-render/vue3-ssr" "^0.15.6"
@@ -4237,7 +4237,7 @@ naive-ui@2.18.2:
     lodash "^4.17.21"
     lodash-es "^4.17.21"
     seemly "^0.3.1"
-    treemate "^0.3.4"
+    treemate "^0.3.8"
     vdirs "^0.1.4"
     vfonts "^0.1.0"
     vooks "^0.2.6"
@@ -5626,10 +5626,10 @@ tree-kill@^1.2.2:
   resolved "https://registry.yarnpkg.com/tree-kill/-/tree-kill-1.2.2.tgz#4ca09a9092c88b73a7cdc5e8a01b507b0790a0cc"
   integrity sha512-L0Orpi8qGpRG//Nd+H90vFB+3iHnue1zSSGmNOOCh1GLJ7rUKVwV2HvijphGQS2UmhUZewS9VgvxYIdgr+fG1A==
 
-treemate@^0.3.4:
-  version "0.3.4"
-  resolved "https://registry.yarnpkg.com/treemate/-/treemate-0.3.4.tgz#d7a36619083c28b54f7eb2f816c120ae522ccd1f"
-  integrity sha512-CaUdHj9zMPWTG+ayxgN3KyA83GjqnuQt0f+bCO8Sg3bjN7tLcB/fn4Z2/y8PJfSQIMfumvgPLlaNSBoKJHvoXQ==
+treemate@^0.3.8:
+  version "0.3.8"
+  resolved "https://registry.yarnpkg.com/treemate/-/treemate-0.3.8.tgz#791c0cd6eae5bdbd2cd04013429385f5366fdff4"
+  integrity sha512-wv9lBoPaeWsOgBSX09cpDi1HcO/A3aNfY+Qhvu8JnOSvVfSTmcXMKGrg9g8oTgWA8YLVqq+wt8p+eQvAhqKqlQ==
 
 ts-interface-checker@^0.1.9:
   version "0.1.13"
