@@ -1763,13 +1763,6 @@
   dependencies:
     "@vue/shared" "3.2.12"
 
-"@vue/reactivity@3.2.8":
-  version "3.2.8"
-  resolved "https://registry.yarnpkg.com/@vue/reactivity/-/reactivity-3.2.8.tgz#b27200ccfaa06f312ac467b12a38161377c557ed"
-  integrity sha512-/Hj3Uz28SG+xB5SDWPOXUs0emvHkq82EmTgk44/plTVFeswCZ3i3Hd7WmsrPT4rGajlDKd5uqMmW0ith1ED0FA==
-  dependencies:
-    "@vue/shared" "3.2.8"
-
 "@vue/reactivity@^3.2.2":
   version "3.2.4"
   resolved "https://registry.yarnpkg.com/@vue/reactivity/-/reactivity-3.2.4.tgz#a020ad7e50f674219a07764b105b5922e61597ea"
@@ -1807,14 +1800,6 @@
     "@vue/reactivity" "3.2.12"
     "@vue/shared" "3.2.12"
 
-"@vue/runtime-core@3.2.8":
-  version "3.2.8"
-  resolved "https://registry.yarnpkg.com/@vue/runtime-core/-/runtime-core-3.2.8.tgz#8a2342c0baa0fee192f819a3bdc19547d7430b88"
-  integrity sha512-hwzXLGw1njBEY5JSyRXIIdCtzMFFF6F38WcKMmoIE3p7da30jEbWt8EwwrBomjT8ZbqzElOGlewBcnXNOiiIUg==
-  dependencies:
-    "@vue/reactivity" "3.2.8"
-    "@vue/shared" "3.2.8"
-
 "@vue/runtime-dom@3.2.12":
   version "3.2.12"
   resolved "https://registry.yarnpkg.com/@vue/runtime-dom/-/runtime-dom-3.2.12.tgz#d9fe865dca36f9ca33ba327afdeb89ae2aa03f4c"
@@ -1822,15 +1807,6 @@
   dependencies:
     "@vue/runtime-core" "3.2.12"
     "@vue/shared" "3.2.12"
-    csstype "^2.6.8"
-
-"@vue/runtime-dom@3.2.8":
-  version "3.2.8"
-  resolved "https://registry.yarnpkg.com/@vue/runtime-dom/-/runtime-dom-3.2.8.tgz#c6631b507049d39844b0434e81df1aa79efcc6cb"
-  integrity sha512-A/aRrlGLJ5y4Z7eNbnO/xHwx2RiPijQo7D3OIwESroG3HNP+dpuoqamajo5TXS9ZGjbMOih82COoe7xb9P4BZw==
-  dependencies:
-    "@vue/runtime-core" "3.2.8"
-    "@vue/shared" "3.2.8"
     csstype "^2.6.8"
 
 "@vue/shared@3.1.5":
@@ -5874,16 +5850,14 @@ vite-plugin-pwa@0.11.2:
     workbox-build "^6.2.2"
     workbox-window "^6.2.2"
 
-vite-plugin-vue-layouts@0.4.1:
-  version "0.4.1"
-  resolved "https://registry.yarnpkg.com/vite-plugin-vue-layouts/-/vite-plugin-vue-layouts-0.4.1.tgz#17dc2d72f5806c0089a01656f17e6f71c180722b"
-  integrity sha512-N4mrjqisD3Ys0F+3Rytq3F8LcIo3a0o+7tpkr/ck8UGLpHBJVb1Ce09cBPO28Mi8ZKAyxMuoqDuZant8QdBnag==
+vite-plugin-vue-layouts@0.5.0:
+  version "0.5.0"
+  resolved "https://registry.yarnpkg.com/vite-plugin-vue-layouts/-/vite-plugin-vue-layouts-0.5.0.tgz#2dd05f7682e5aba5e4d29b8169efc2611fe75e53"
+  integrity sha512-KN03GMSGNrWxeHJo5OO9fvdZh44PfievNAoLeMbf20UQPBBO6kpIMVTYB6sFPMWmiTbqZmq3we4z/ocJkxAEiA==
   dependencies:
     "@vue/compiler-sfc" "^3.2.4"
     debug "^4.3.2"
     fast-glob "^3.2.7"
-    vue "^3.2.4"
-    vue-router "^4.0.11"
 
 vite-plugin-windicss@1.4.3:
   version "1.4.3"
@@ -6066,7 +6040,7 @@ vue-eslint-parser@^7.10.0:
     lodash "^4.17.21"
     semver "^6.3.0"
 
-vue-router@4.0.11, vue-router@^4.0.11:
+vue-router@4.0.11:
   version "4.0.11"
   resolved "https://registry.yarnpkg.com/vue-router/-/vue-router-4.0.11.tgz#cd649a0941c635281763a20965b599643ddc68ed"
   integrity sha512-sha6I8fx9HWtvTrFZfxZkiQQBpqSeT+UCwauYjkdOQYRvwsGwimlQQE2ayqUwuuXGzquFpCPoXzYKWlzL4OuXg==
@@ -6088,15 +6062,6 @@ vue@3.2.12:
     "@vue/compiler-dom" "3.2.12"
     "@vue/runtime-dom" "3.2.12"
     "@vue/shared" "3.2.12"
-
-vue@^3.2.4:
-  version "3.2.8"
-  resolved "https://registry.yarnpkg.com/vue/-/vue-3.2.8.tgz#9124e4c31ebc9c592b2b9f293df5c9a88a78e944"
-  integrity sha512-x7lwdnOSkceHQUXRVVHBaZzcp6v7M2CYtSZH75zZaT1mTjB4plC4KZHKP/5jAvdqOLBHZGwDSMkWXm3YbAufrA==
-  dependencies:
-    "@vue/compiler-dom" "3.2.8"
-    "@vue/runtime-dom" "3.2.8"
-    "@vue/shared" "3.2.8"
 
 vueuc@^0.4.9:
   version "0.4.10"
