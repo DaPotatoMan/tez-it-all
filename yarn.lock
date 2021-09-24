@@ -1922,10 +1922,10 @@
     vscode-languageserver-textdocument "^1.0.1"
     vscode-uri "^2.1.2"
 
-"@windicss/config@1.4.4":
-  version "1.4.4"
-  resolved "https://registry.yarnpkg.com/@windicss/config/-/config-1.4.4.tgz#addbb8b02188ef0de8d9db73f7bc33edf1446572"
-  integrity sha512-tKV1a/jg5rvRRCuigxgUG1E2xw4lVIlNs+It34YXN8/hvvEN7FQzksAs0aov4+nOvi8deNNP0dv/X3AVtKtrbQ==
+"@windicss/config@1.4.5":
+  version "1.4.5"
+  resolved "https://registry.yarnpkg.com/@windicss/config/-/config-1.4.5.tgz#33ff2d4e1917a956c6a651fe4cf3e95c4f3917fb"
+  integrity sha512-+LLk3KmFTELPIVaBj9T4PE27aKtnLPLiHKeKLiK3H8yjre52F6IkP5czM5QBk9Ri8CHUIEjJClNDjOAMC1xBIg==
   dependencies:
     debug "^4.3.2"
     jiti "^1.12.3"
@@ -1944,13 +1944,13 @@
   resolved "https://registry.yarnpkg.com/@windicss/plugin-scrollbar/-/plugin-scrollbar-1.2.3.tgz#4796e999e98a4bca6c269fa1faffd2e9b5452cac"
   integrity sha512-+cqv1pEmaNPITeBJ/lO6tc8IjBzRhQ+V9G8r249MMXivYoxUO4DtModBrRGHVvBgsYZgPXDsIv2jqtxc4NqYEg==
 
-"@windicss/plugin-utils@1.4.4":
-  version "1.4.4"
-  resolved "https://registry.yarnpkg.com/@windicss/plugin-utils/-/plugin-utils-1.4.4.tgz#9989a486d16c587e2f945f145a062a399015210a"
-  integrity sha512-vNMk2IKsEuaTzfqAzUDl/DH9UF+loADAEvXGA2tIB8lKEr1cIJJPea2p6w8SzCCymfsehTs4n55V9F45HO52LQ==
+"@windicss/plugin-utils@1.4.5":
+  version "1.4.5"
+  resolved "https://registry.yarnpkg.com/@windicss/plugin-utils/-/plugin-utils-1.4.5.tgz#9456a93e10d5e0b4396206f1eee0a0df7deadf66"
+  integrity sha512-pzpHJe8E/eYRHbLe3u568dAw/+3zomG/ptZ3cWk7GrYyRQooRoeEdRu4c0cyHQIVUIXJ7IO2tGHPFdd3yJS9Vg==
   dependencies:
     "@antfu/utils" "^0.3.0"
-    "@windicss/config" "1.4.4"
+    "@windicss/config" "1.4.5"
     debug "^4.3.2"
     fast-glob "^3.2.7"
     magic-string "^0.25.7"
@@ -5851,12 +5851,12 @@ vite-plugin-vue-layouts@0.5.0:
     debug "^4.3.2"
     fast-glob "^3.2.7"
 
-vite-plugin-windicss@1.4.4:
-  version "1.4.4"
-  resolved "https://registry.yarnpkg.com/vite-plugin-windicss/-/vite-plugin-windicss-1.4.4.tgz#cb4c7fec4b99eef767eb260bb61d7d991de8b84e"
-  integrity sha512-EYazv3+qRj7pv1F7RxKSHicCgEEIEARV9GT1iWvIMnSeWYXfmn2BGnzkdojEUW4o9NDq3VGKd4D/lVuL8I2v3w==
+vite-plugin-windicss@1.4.5:
+  version "1.4.5"
+  resolved "https://registry.yarnpkg.com/vite-plugin-windicss/-/vite-plugin-windicss-1.4.5.tgz#e38838aa3fcc3c5af4752ec4446333212b505827"
+  integrity sha512-C9EOA/8Z3In15fa2MkZrk6IrzLC1IBzHhuuAPIo3uhPLqAYC8YohJnZA8IRImlSimAsPtIiJrGaKQunjpasLqg==
   dependencies:
-    "@windicss/plugin-utils" "1.4.4"
+    "@windicss/plugin-utils" "1.4.5"
     chalk "^4.1.2"
     debug "^4.3.2"
     windicss "^3.1.7"
