@@ -5735,10 +5735,10 @@ vite-plugin-externals@0.3.0:
     fs-extra "^10.0.0"
     magic-string "^0.25.7"
 
-vite-plugin-md@0.11.2:
-  version "0.11.2"
-  resolved "https://registry.yarnpkg.com/vite-plugin-md/-/vite-plugin-md-0.11.2.tgz#6c20b30c977113d1e981d040c1523e6961d71458"
-  integrity sha512-/eLvg+RzaYCDevZPlnnh98fg5w1CB2w6EfgQRuoGiex6LJNyqczcpCJO1lPsL9UzFUeagOrmZwjI4Xm3CnRFHg==
+vite-plugin-md@0.11.4:
+  version "0.11.4"
+  resolved "https://registry.yarnpkg.com/vite-plugin-md/-/vite-plugin-md-0.11.4.tgz#65ce8b88ebaf6377cd42389e1699041526432bd3"
+  integrity sha512-t24rdVSB72k8xeLcuMhwl0ku5hvsQkt7NfVNG1LEaTOykbXTgwcGD8OUTmryOsGGhCw2DuCZJvTs+qK07J7Gug==
   dependencies:
     "@rollup/pluginutils" "^4.1.1"
     "@types/markdown-it" "^12.2.3"
