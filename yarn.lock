@@ -1286,12 +1286,12 @@
     bs58check "^2.1.2"
     buffer "^6.0.3"
 
-"@temple-wallet/dapp@4.0.1":
-  version "4.0.1"
-  resolved "https://registry.yarnpkg.com/@temple-wallet/dapp/-/dapp-4.0.1.tgz#e506bb5743570d308b46458fcee7dff43f4f8fd1"
-  integrity sha512-0ARUKpY5vGEmvaBFtc1n6lcX1P9wzIjupSe6X1lFZGxp/8vNO3wcI0lsOs2r/7swFTwmQ+P8lZbougd0JOfiWQ==
+"@temple-wallet/dapp@5.0.2":
+  version "5.0.2"
+  resolved "https://registry.yarnpkg.com/@temple-wallet/dapp/-/dapp-5.0.2.tgz#6a7759b1527b3e0dd0079642e3b052a027bb2953"
+  integrity sha512-IIeHTowHXOp7/JnttfzMyCJjFWwhqOauDN7S2vU0GzHkpT5gH6FBXqB3kvZUyPfoxY0PXuXg+HKh++qABx+g9A==
   dependencies:
-    nanoid "^3.1.10"
+    nanoid "^3.1.25"
 
 "@trysound/sax@0.1.1":
   version "0.1.1"
@@ -4411,11 +4411,6 @@ nanocolors@^0.2.2:
   version "0.2.12"
   resolved "https://registry.yarnpkg.com/nanocolors/-/nanocolors-0.2.12.tgz#4d05932e70116078673ea4cc6699a1c56cc77777"
   integrity sha512-SFNdALvzW+rVlzqexid6epYdt8H9Zol7xDoQarioEFcFN0JHo4CYNztAxmtfgGTVRCmFlEOqqhBpoFGKqSAMug==
-
-nanoid@^3.1.10:
-  version "3.1.25"
-  resolved "https://registry.yarnpkg.com/nanoid/-/nanoid-3.1.25.tgz#09ca32747c0e543f0e1814b7d3793477f9c8e152"
-  integrity sha512-rdwtIXaXCLFAQbnfqDRnI6jaRHp9fTcYBjtFKE8eezcZ7LuLjhUaQGNeMXf1HmRoCH32CLz6XwX0TtxEOS/A3Q==
 
 nanoid@^3.1.23:
   version "3.1.23"
