@@ -2663,15 +2663,10 @@ date-fns-tz@^1.1.6:
   resolved "https://registry.yarnpkg.com/date-fns-tz/-/date-fns-tz-1.1.6.tgz#93cbf354e2aeb2cd312ffa32e462c1943cf20a8e"
   integrity sha512-nyy+URfFI3KUY7udEJozcoftju+KduaqkVfwyTIE0traBiVye09QnyWKLZK7drRr5h9B7sPJITmQnS3U6YOdQg==
 
-date-fns@2.27.0:
+date-fns@2.27.0, date-fns@^2.27.0:
   version "2.27.0"
   resolved "https://registry.yarnpkg.com/date-fns/-/date-fns-2.27.0.tgz#e1ff3c3ddbbab8a2eaadbb6106be2929a5a2d92b"
   integrity sha512-sj+J0Mo2p2X1e306MHq282WS4/A8Pz/95GIFcsPNMPMZVI3EUrAdSv90al1k+p74WGLCruMXk23bfEDZa71X9Q==
-
-date-fns@^2.19.0:
-  version "2.23.0"
-  resolved "https://registry.yarnpkg.com/date-fns/-/date-fns-2.23.0.tgz#4e886c941659af0cf7b30fafdd1eaa37e88788a9"
-  integrity sha512-5ycpauovVyAk0kXNZz6ZoB9AYMZB4DObse7P3BPWmyEjXNORTI8EJ6X0uaSAq4sCHzM1uajzrkr6HnsLQpxGXA==
 
 de-indent@^1.0.2:
   version "1.0.2"
@@ -4414,10 +4409,10 @@ mz@^2.4.0:
     object-assign "^4.0.1"
     thenify-all "^1.0.0"
 
-naive-ui@2.21.5:
-  version "2.21.5"
-  resolved "https://registry.yarnpkg.com/naive-ui/-/naive-ui-2.21.5.tgz#b433cdc2e8b394e57274f0000eb65ad43d3586a0"
-  integrity sha512-/vgWS4DdV7Ck8LgqAZCAynnLC9AXP9na1G3Uou1OeHYOgy3w07AcffpZVsAQtgYYuU8fRd6ogAABoLX3wZmRFg==
+naive-ui@2.22.0:
+  version "2.22.0"
+  resolved "https://registry.yarnpkg.com/naive-ui/-/naive-ui-2.22.0.tgz#9085ebfd8983e4043fe3b6b73284508a565a15a3"
+  integrity sha512-nBGSocnmKGXXvyJB65Fa4BXdQZqQ7qffNrmNOo0NX6o1pd9cTimJJDdiGzVsPd1pyD2nTlfvOkddQLMOJZ9Zhw==
   dependencies:
     "@css-render/plugin-bem" "^0.15.6"
     "@css-render/vue3-ssr" "^0.15.6"
@@ -4425,7 +4420,7 @@ naive-ui@2.21.5:
     "@types/lodash-es" "^4.17.4"
     async-validator "^4.0.1"
     css-render "^0.15.6"
-    date-fns "^2.19.0"
+    date-fns "^2.27.0"
     date-fns-tz "^1.1.6"
     evtd "^0.2.3"
     highlight.js "^11.0.1"
