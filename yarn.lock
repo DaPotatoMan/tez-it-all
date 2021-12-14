@@ -5999,10 +5999,10 @@ vite-plugin-components@0.13.3:
     magic-string "^0.25.7"
     minimatch "^3.0.4"
 
-vite-plugin-externals@0.3.1:
-  version "0.3.1"
-  resolved "https://registry.yarnpkg.com/vite-plugin-externals/-/vite-plugin-externals-0.3.1.tgz#7434096e944122b15fe13133f57ada8dddc46656"
-  integrity sha512-8bBrEu/lmhG+A9vlRHLPkJPQJ7pJML7xHCB3iTfNZ7/bQ0FBVw4uWEdDp/ahWaCic9qAt7QmVXKweqlmeJetzw==
+vite-plugin-externals@0.3.2:
+  version "0.3.2"
+  resolved "https://registry.yarnpkg.com/vite-plugin-externals/-/vite-plugin-externals-0.3.2.tgz#91f5c465a074c993d3d04734cd3f5fd727f8ec27"
+  integrity sha512-2MJBiYhU2jkafLGBeNyUEkpgyenoeUNKrkrEeCy8VWu/wZRVnI+FaL0bsnpTSRL1piDBcHZOA56roPos9jveTg==
   dependencies:
     acorn "^8.4.0"
     es-module-lexer "^0.4.1"
