@@ -4409,10 +4409,10 @@ mz@^2.4.0:
     object-assign "^4.0.1"
     thenify-all "^1.0.0"
 
-naive-ui@2.23.0:
-  version "2.23.0"
-  resolved "https://registry.yarnpkg.com/naive-ui/-/naive-ui-2.23.0.tgz#d3989cff4c898e6c0c57416abcee109bb053cc1d"
-  integrity sha512-rs+to4V6dyxtoxI5X0DItjWYATmx+QRAI42xT7P4mQ2CnTOn1Z/Zc1spUp3KGaVaPfMzWSs4uxb92k8AV5dlfg==
+naive-ui@2.23.1:
+  version "2.23.1"
+  resolved "https://registry.yarnpkg.com/naive-ui/-/naive-ui-2.23.1.tgz#3c9c6a5b9ec758006e8cc071920b4b6a1cc9f3ce"
+  integrity sha512-Hi/I8YWn+tK0iieSNLfOtcqr9ml+2tMNsKjD3HRB18nwDBNEOstnk/vcpKhCtI0IfTOSn8l1BSX4622HcF3dMw==
   dependencies:
     "@css-render/plugin-bem" "^0.15.6"
     "@css-render/vue3-ssr" "^0.15.6"
