@@ -4412,10 +4412,10 @@ mz@^2.4.0:
     object-assign "^4.0.1"
     thenify-all "^1.0.0"
 
-naive-ui@2.25.8:
-  version "2.25.8"
-  resolved "https://registry.yarnpkg.com/naive-ui/-/naive-ui-2.25.8.tgz#d079888bcadaf3c3234c98612cf169b913ab9421"
-  integrity sha512-xLRBI7Kz0HCN/TWi4aobsUu3MhNR9UUipK9KMioHHCaBybwsJj42wlEBb4X5z4Ap3wzPK2nBOT2TxBWSDfoOrg==
+naive-ui@2.26.0:
+  version "2.26.0"
+  resolved "https://registry.yarnpkg.com/naive-ui/-/naive-ui-2.26.0.tgz#a55d8c821f8f18f4a21b136f340a560a91bca655"
+  integrity sha512-4+78iqpQs1t8Xlq3Hrk1eSsm17d6ZScMNvnyo+KAiYdAWCfEsIdKb6ulkPGu7T0hpWL5A3TctJ5ioSbNlbN4LA==
   dependencies:
     "@css-render/plugin-bem" "^0.15.8"
     "@css-render/vue3-ssr" "^0.15.8"
@@ -4434,7 +4434,7 @@ naive-ui@2.25.8:
     vdirs "^0.1.7"
     vfonts "^0.0.3"
     vooks "^0.2.12"
-    vueuc "^0.4.26"
+    vueuc "^0.4.27"
 
 nanoid@^3.1.10:
   version "3.1.25"
@@ -6286,10 +6286,10 @@ vue@3.2.31:
     "@vue/server-renderer" "3.2.31"
     "@vue/shared" "3.2.31"
 
-vueuc@^0.4.26:
-  version "0.4.26"
-  resolved "https://registry.yarnpkg.com/vueuc/-/vueuc-0.4.26.tgz#7196c260d871120576048668c1d81efe716b0458"
-  integrity sha512-IK6TV4468k7Hpj1SXXPYelT/aYqmfa/SYTLFospwJ/uMebRExS1fh5tx6ZT3fSA0OkmCOHmmi2OGke+eSseAgw==
+vueuc@^0.4.27:
+  version "0.4.27"
+  resolved "https://registry.yarnpkg.com/vueuc/-/vueuc-0.4.27.tgz#ac9fba71e33bed7e51ee59962e260371293119d6"
+  integrity sha512-wkIM6F1VT9cuzC2YOIzktPcTJ3eI8FoQ39KazAKwcdPv3GcXZGO1vBZc3TspBwap0AIn9eF8dxvQAW80yxhbHg==
   dependencies:
     "@css-render/vue3-ssr" "^0.15.7"
     css-render "^0.15.7"
