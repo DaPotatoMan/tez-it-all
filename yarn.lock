@@ -2635,20 +2635,15 @@ csstype@~3.0.5:
   resolved "https://registry.yarnpkg.com/csstype/-/csstype-3.0.8.tgz#d2266a792729fb227cd216fb572f43728e1ad340"
   integrity sha512-jXKhWqXPmlUeoQnF/EhTtTl4C9SnrxSH/jZUih3jmO6lBKr99rP3/+FmrMj4EFpOXzMtXHAZkd3x0E6h6Fgflw==
 
-date-fns-tz@^1.1.6:
-  version "1.1.6"
-  resolved "https://registry.yarnpkg.com/date-fns-tz/-/date-fns-tz-1.1.6.tgz#93cbf354e2aeb2cd312ffa32e462c1943cf20a8e"
-  integrity sha512-nyy+URfFI3KUY7udEJozcoftju+KduaqkVfwyTIE0traBiVye09QnyWKLZK7drRr5h9B7sPJITmQnS3U6YOdQg==
+date-fns-tz@^1.3.0:
+  version "1.3.0"
+  resolved "https://registry.yarnpkg.com/date-fns-tz/-/date-fns-tz-1.3.0.tgz#6c83d4bdf20d54060cf176d96a3ca45043b36a84"
+  integrity sha512-r6ye6PmGEvkF467/41qzU71oGwv9kHTnV3vtSZdyV6VThwPID47ZH7FtR7zQWrhgOUWkYySm2ems2w6ZfNUqoA==
 
-date-fns@2.28.0:
+date-fns@2.28.0, date-fns@^2.28.0:
   version "2.28.0"
   resolved "https://registry.yarnpkg.com/date-fns/-/date-fns-2.28.0.tgz#9570d656f5fc13143e50c975a3b6bbeb46cd08b2"
   integrity sha512-8d35hViGYx/QH0icHYCeLmsLmMUheMmTyV9Fcm6gvNwdw31yXXH+O85sOBJ+OLnLQMKZowvpKb6FgMIQjcpvQw==
-
-date-fns@^2.27.0:
-  version "2.27.0"
-  resolved "https://registry.yarnpkg.com/date-fns/-/date-fns-2.27.0.tgz#e1ff3c3ddbbab8a2eaadbb6106be2929a5a2d92b"
-  integrity sha512-sj+J0Mo2p2X1e306MHq282WS4/A8Pz/95GIFcsPNMPMZVI3EUrAdSv90al1k+p74WGLCruMXk23bfEDZa71X9Q==
 
 de-indent@^1.0.2:
   version "1.0.2"
@@ -4412,10 +4407,10 @@ mz@^2.4.0:
     object-assign "^4.0.1"
     thenify-all "^1.0.0"
 
-naive-ui@2.26.0:
-  version "2.26.0"
-  resolved "https://registry.yarnpkg.com/naive-ui/-/naive-ui-2.26.0.tgz#a55d8c821f8f18f4a21b136f340a560a91bca655"
-  integrity sha512-4+78iqpQs1t8Xlq3Hrk1eSsm17d6ZScMNvnyo+KAiYdAWCfEsIdKb6ulkPGu7T0hpWL5A3TctJ5ioSbNlbN4LA==
+naive-ui@2.26.1:
+  version "2.26.1"
+  resolved "https://registry.yarnpkg.com/naive-ui/-/naive-ui-2.26.1.tgz#7e9c73a1e86a026bd3eb9584e005eb079aa711f4"
+  integrity sha512-2VP3yJ0InUxfDJ22evq4uOm/4XkGtGGUONQpGvDd5gXmLzp6XB9UO1sNgNee5KImmELKjOLamkH9kCKs0KvJbQ==
   dependencies:
     "@css-render/plugin-bem" "^0.15.8"
     "@css-render/vue3-ssr" "^0.15.8"
@@ -4423,8 +4418,8 @@ naive-ui@2.26.0:
     "@types/lodash-es" "^4.17.4"
     async-validator "^4.0.1"
     css-render "^0.15.8"
-    date-fns "^2.27.0"
-    date-fns-tz "^1.1.6"
+    date-fns "^2.28.0"
+    date-fns-tz "^1.3.0"
     evtd "^0.2.3"
     highlight.js "^11.0.1"
     lodash "^4.17.21"
