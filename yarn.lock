@@ -1906,6 +1906,11 @@
     vscode-uri "^2.1.2"
     vscode-web-custom-data "^0.3.2"
 
+"@vuedx/typescript-plugin-vue@0.7.5":
+  version "0.7.5"
+  resolved "https://registry.yarnpkg.com/@vuedx/typescript-plugin-vue/-/typescript-plugin-vue-0.7.5.tgz#60ee456d21f7378b6f7d69cf87b0d5076bf33d6f"
+  integrity sha512-HHx0cOP3wGy5ELxgAd/w4HUH2xbWbppr5LVD8DtU76l1eYUAPqKkFHASPJMmExHXY9ufIcv7nHiNhwq0FbSd+Q==
+
 "@vuedx/typescript-vetur@0.7.4":
   version "0.7.4"
   resolved "https://registry.yarnpkg.com/@vuedx/typescript-vetur/-/typescript-vetur-0.7.4.tgz#1122999ef5210b7b344092efe7de43575731b9d7"
