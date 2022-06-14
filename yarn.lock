@@ -4330,10 +4330,10 @@ mz@^2.4.0:
     object-assign "^4.0.1"
     thenify-all "^1.0.0"
 
-naive-ui@2.29.0:
-  version "2.29.0"
-  resolved "https://registry.yarnpkg.com/naive-ui/-/naive-ui-2.29.0.tgz#e72caeefd8afce16dcc4bae4ca6abe7ef32a3f41"
-  integrity sha512-zZ4ka0Y5QakNyqJIPiAoZ5YJG4mCiSw+HzYtreEmOvBmbP14/iUXarRhI9a3XET8g6ix682TcitamlCyqZ/y2Q==
+naive-ui@2.30.3:
+  version "2.30.3"
+  resolved "https://registry.yarnpkg.com/naive-ui/-/naive-ui-2.30.3.tgz#4a3d8463705e95494e0ae38ea6276edade5da9cd"
+  integrity sha512-s6iphodOfLklhgAGtzhzoE0oPi6eY72UufUDRySBbfV+r+64vw9omYUOqk3Z1M/t/Mh8KwqW6z+ex8bYftFKPA==
   dependencies:
     "@css-render/plugin-bem" "^0.15.10"
     "@css-render/vue3-ssr" "^0.15.10"
@@ -4347,11 +4347,11 @@ naive-ui@2.29.0:
     highlight.js "^11.5.0"
     lodash "^4.17.21"
     lodash-es "^4.17.21"
-    seemly "^0.3.3"
+    seemly "^0.3.4"
     treemate "^0.3.11"
     vdirs "^0.1.8"
     vooks "^0.2.12"
-    vueuc "^0.4.33"
+    vueuc "^0.4.39"
 
 nanoid@^3.1.10:
   version "3.1.25"
@@ -5249,10 +5249,10 @@ seemly@^0.3.1:
   dependencies:
     "@types/jest" "^26.0.20"
 
-seemly@^0.3.3:
-  version "0.3.3"
-  resolved "https://registry.yarnpkg.com/seemly/-/seemly-0.3.3.tgz#a6482f374e042f873f63dc7622cb1529c251574e"
-  integrity sha512-mAyqemz41e9HiZPMXAn7NtTExJgztwco5cdZjrt/iViU/oFeav+Q8K1c93M/tIZZ00QkT65JMr4xXQk7Vv5hWQ==
+seemly@^0.3.4:
+  version "0.3.4"
+  resolved "https://registry.yarnpkg.com/seemly/-/seemly-0.3.4.tgz#2242924739866d95b4f87f017bc646392b8004db"
+  integrity sha512-/crL+UfbtYd6NdLdnf58xaABfeSRt5uKE4N1SFQAW7nIznOrJQchAaslJHxV8/iAfV0LWInrmxJBFdDb0c2/sw==
   dependencies:
     "@types/jest" "^27.0.1"
 
@@ -5951,10 +5951,10 @@ vue@3.2.37:
     "@vue/server-renderer" "3.2.37"
     "@vue/shared" "3.2.37"
 
-vueuc@^0.4.33:
-  version "0.4.33"
-  resolved "https://registry.yarnpkg.com/vueuc/-/vueuc-0.4.33.tgz#7e1eddb56410e13f306effbeaac4cf344f9bfcfb"
-  integrity sha512-8OBJid8EmfmWlm1d5qMPQOqBsARHsOkJ/pMMI/bbmUi9qYlwbpHmMTncanzs4IVNPn+Ux85Ev2JgtStWtyMbqg==
+vueuc@^0.4.39:
+  version "0.4.41"
+  resolved "https://registry.yarnpkg.com/vueuc/-/vueuc-0.4.41.tgz#008a3c6bff107ccf6fcd96ee9efd418da0e184f6"
+  integrity sha512-11awnpzr7MNKrypY4bpHrmtK1GI2qn2cvhK5gQMFK2H+AQAKH5IuuhWI7bR60DwgYEkrYW5KK/JRAxKtMJ9wRw==
   dependencies:
     "@css-render/vue3-ssr" "^0.15.10"
     "@juggle/resize-observer" "^3.3.1"
