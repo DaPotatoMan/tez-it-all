@@ -6887,10 +6887,10 @@ vite-plugin-md@0.14.1:
     prismjs "^1.28.0"
     vue-router "^4.0.16"
 
-vite-plugin-pages@0.24.1:
-  version "0.24.1"
-  resolved "https://registry.yarnpkg.com/vite-plugin-pages/-/vite-plugin-pages-0.24.1.tgz#1b50e86ed224c65cbe985bed31082b13b07d0b23"
-  integrity sha512-k7z5MmFpmeGKOhMCnBmVc0Y3r72fek8yh8f7ksOuiWB7LVUmjAfXtcKbtG68+/ZcnEMpA5vcTYrWiYjGk5BwyQ==
+vite-plugin-pages@0.25.0:
+  version "0.25.0"
+  resolved "https://registry.yarnpkg.com/vite-plugin-pages/-/vite-plugin-pages-0.25.0.tgz#ebaff80a368301df738dbd6cdc8e529c4d6ddca7"
+  integrity sha512-q0SX2iSw0UrTnivkzsPb19ZxamShq1nE/e/CKOe8+uVg70/e14uJuzKnw7dZ2omPjmV9Lhks38nzJL6RDRGmeA==
   dependencies:
     "@types/debug" "^4.1.7"
     debug "^4.3.4"
