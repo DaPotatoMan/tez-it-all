@@ -29,7 +29,7 @@
       "vite-plugin-externals": "0.6.2",
       "vite-plugin-md": "0.14.1",
       "vite-plugin-pages": "0.32.0",
-      "vite-plugin-pwa": "0.12.3",
+      "vite-plugin-pwa": "0.19.2",
       "vite-plugin-vue-layouts": "0.5.0",
       "vite-plugin-windicss": "1.9.3",
       "vue-tsc": "0.40.13",
