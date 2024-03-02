@@ -27,7 +27,7 @@
       "vite": "2.9.17",
       "vite-plugin-components": "0.13.3",
       "vite-plugin-externals": "0.6.2",
-      "vite-plugin-md": "0.14.1",
+      "vite-plugin-md": "0.21.5",
       "vite-plugin-pages": "0.32.0",
       "vite-plugin-pwa": "0.12.3",
       "vite-plugin-vue-layouts": "0.5.0",
